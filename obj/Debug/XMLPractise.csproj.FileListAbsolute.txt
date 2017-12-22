@@ -1,0 +1,7 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\bin\Debug\XMLPractise.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\bin\Debug\XMLPractise.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\bin\Debug\XMLPractise.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\obj\Debug\XMLPractise.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\obj\Debug\XMLPractise.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\obj\Debug\XMLPractise.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\XMLPractise\XMLPractise\bin\Debug\Users.xml
